@@ -549,6 +549,9 @@ ul.social-list li:nth-child(3) a:hover{
 #portofolio {
     padding-bottom: 160px;
 }
+#portofolio .content-box-md{
+    margin-top: -180px;
+}
 
 #portofolio .vertical-heading h5 {
     color: #212226;
@@ -672,6 +675,9 @@ ul.social-list li:nth-child(3) a:hover{
     background: #3f3d56;
     overflow: visible;
     color: #f4f4f4;
+}
+#katas .content-box-lg{
+    padding-top: 220px;
 }
 #katas .vertical-heading {
     padding: 80px 0;
